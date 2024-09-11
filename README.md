@@ -1,2 +1,1 @@
-# dev.deanie.github.io
-웹페이지
+https://dev.deanie.github.io
